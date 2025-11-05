@@ -1,0 +1,7 @@
+{
+  "name": "QueryX",
+  "description": "QueryX is a versatile AI agent powered by the Gemini API. Engage in chat, analyze images, get up-to-date information with search and maps grounding, or use advanced thinking mode for complex queries.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
